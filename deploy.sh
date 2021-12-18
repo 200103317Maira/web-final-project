@@ -19,7 +19,7 @@ git commit -m 'deploy'
 # if you are deploying to https://kasperific.github.io
 # git push -f git@github.com:kasperific/kasperific.github.io.git master
 
-# if you are deploying to https://kasperific.github.io/vue-jeopardy
-git push -f git@github.com:kasperific/vue-jeopardy.git master:gh-pages
+# if you are deploying to https://kasperific.github.io/web-final-project
+git push -f git@github.com:kasperific/web-final-project.git master:gh-pages
 
 cd -
